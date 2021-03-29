@@ -2098,6 +2098,7 @@ textarea.form-control {
 
 .form-group {
   margin-bottom: 1rem;
+     
 }
 
 .form-text {
@@ -10058,7 +10059,7 @@ p {
 }
 
 .page-section {
-  padding: 7.5rem 0; /*6rem    I put 3 after*/
+  padding: 5.5rem 0; /*6rem    I put 3 after*/
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -11007,4 +11008,32 @@ background-color: #265074;
  }
  
 
+ .form-textbox {
+
+	height: 3.3em; 
+	 
+ }	 
  
+ .form-group-textbox {
+  
+  padding-right: 1px;
+  padding-left: 1px;
+ }
+ 
+ 
+ .price-form-one label {
+	font-size: 1.2em;
+    text-align: right;
+    color: #6c757d; /*#ffb20c;*/
+   /* font-weight: 600;
+    display: block; */
+}
+
+.price-box-main {
+	margin: 0 auto;
+    background:white;
+    padding: 20px;
+    width: 400px;
+	border: 10px solid rgba(0, 0, 0, 0.15);/*#6c757d;*/ /*#eeeeee;*/
+	border-radius: 15px;
+}
